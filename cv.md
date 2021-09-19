@@ -22,6 +22,27 @@ I'm a student of Belarusian State University and I'm going to graduate it in the
     * CodeAcademy HTML course
     * CodeAcademy CSS course
 
+### Code
+Code example from random task
+`<!DOCTYPE html>
+<script>
+"use strict";
+
+let salaries = {
+  John: 100,
+  Ann: 160,
+  Pete: 130
+};
+
+let sum = 0;
+for (let key in salaries) {
+  sum += salaries[key];
+}
+
+alert(sum); // 390
+</script>`
+
+
 ### English 
 
 **C1** (I have been studying English for 5 years, also practice it with journalists at European games)
