@@ -16,6 +16,24 @@ I'm a student of Belarusian State University and I'm going to graduate it in the
 * **CSS** 
 * **Git**
 
+### Code
+A block of code of random task
+``` javascript 
+"use strict";
+let salaries = {
+  John: 100,
+  John: 110,
+  Ann: 160,
+  Pete: 130
+};
+@@ -45,7 +45,7 @@ for (let key in salaries) {
+  sum += salaries[key];
+}
+alert(sum); // 390
+alert(sum); // 400
+</script>
+```
+
 ### Education 
 
 * **Courses**
@@ -25,4 +43,5 @@ I'm a student of Belarusian State University and I'm going to graduate it in the
 ### English 
 
 **C1** (I have been studying English for 5 years, also practice it with journalists at European games)
+
 
