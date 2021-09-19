@@ -19,18 +19,22 @@ I'm a student of Belarusian State University and I'm going to graduate it in the
 ### Code
 A block of code of random task
 ``` javascript 
+<!DOCTYPE html>
+<script>
 "use strict";
+
 let salaries = {
   John: 100,
-  John: 110,
   Ann: 160,
   Pete: 130
 };
-@@ -45,7 +45,7 @@ for (let key in salaries) {
+
+let sum = 0;
+for (let key in salaries) {
   sum += salaries[key];
 }
+
 alert(sum); // 390
-alert(sum); // 400
 </script>
 ```
 
