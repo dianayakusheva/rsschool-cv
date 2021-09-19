@@ -1,7 +1,6 @@
 # Diana Yakusheva
 
 ### Contacts
-
 * **Location**: Minsk, Belarus
 * **Phone**: +375 29 125 33 45
 * **Email**: diana.yakushevaa@gmail.com
@@ -46,7 +45,8 @@ for (let key in salaries) {
 }
 
 alert(sum); // 400
-</script>```
+</script>
+```
 
 
 
