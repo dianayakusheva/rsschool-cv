@@ -22,9 +22,15 @@ I'm a student of Belarusian State University and I'm going to graduate it in the
     * CodeAcademy HTML course
     * CodeAcademy CSS course
 
+### English 
+
+**C1** (I have been studying English for 5 years, also practice it with journalists at European games)
+
 ### Code
 Code example from random task
-`<!DOCTYPE html>
+
+```javascript
+<!DOCTYPE html>
 <script>
 "use strict";
 
@@ -40,10 +46,8 @@ for (let key in salaries) {
 }
 
 alert(sum); // 390
-</script>`
+</script>```
 
 
-### English 
 
-**C1** (I have been studying English for 5 years, also practice it with journalists at European games)
 
