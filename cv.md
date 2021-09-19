@@ -35,7 +35,7 @@ Code example from random task
 "use strict";
 
 let salaries = {
-  John: 100,
+  John: 110,
   Ann: 160,
   Pete: 130
 };
@@ -45,7 +45,7 @@ for (let key in salaries) {
   sum += salaries[key];
 }
 
-alert(sum); // 390
+alert(sum); // 400
 </script>```
 
 
