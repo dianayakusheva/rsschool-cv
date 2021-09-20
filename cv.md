@@ -15,26 +15,15 @@ I'm a student of Belarusian State University and I'm going to graduate it in the
 * **CSS** 
 * **Git**
 
-### Education 
-
-* **Courses**
-    * CodeAcademy HTML course
-    * CodeAcademy CSS course
-
-### English 
-
-**C1** (I have been studying English for 5 years, also practice it with journalists at European games)
-
 ### Code
-Code example from random task
-
-```javascript
+A block of code of random task
+``` javascript 
 <!DOCTYPE html>
 <script>
 "use strict";
 
 let salaries = {
-  John: 110,
+  John: 100,
   Ann: 160,
   Pete: 130
 };
@@ -44,10 +33,18 @@ for (let key in salaries) {
   sum += salaries[key];
 }
 
-alert(sum); // 400
+alert(sum); // 390
 </script>
 ```
 
+### Education 
 
+* **Courses**
+    * CodeAcademy HTML course
+    * CodeAcademy CSS course
+
+### English 
+
+**C1** (I have been studying English for 5 years, also practice it with journalists at European games)
 
 
