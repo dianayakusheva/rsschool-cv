@@ -1,0 +1,129 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: monospace;
+}
+
+body {
+    background: LavenderBlush;
+    color: RosyBrown;
+    font-size: 14px;
+    line-height:22px;
+}
+   
+.bold {
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+.semi_bold {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.resume {
+    width: 800px;
+    height: auto;
+    display: flex;
+    margin: 50px auto;  
+}
+
+.resume .resume_left {
+    width: 280px;
+    background: green;
+
+}
+
+.resume .resume_left .resume_profile {
+    width: 100%;
+    height: 280px;
+
+}
+
+.resume .resume_left .resume_profile img {
+    width: 10;
+    height: 100%;
+}
+
+.resume .resume_left .resume content {
+    padding: 0 25px;
+
+}
+
+.resume .title {
+    margin-bottom: 20px;
+}
+
+.resume .resume_left .bold  {
+    color:RosyBrown;
+}
+
+.resume .resume_item {
+    padding:25px 0;
+    border-bottom: 2px solid RosyBrown;
+}
+
+.resume .resume_left .resume_item {
+    border-bottom: 0px;
+}
+
+.resume .resume_left ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom:10px;
+}
+
+.resume .resume_left ul li:last child {
+    margin-bottom: 0;
+}
+
+.resume .resume_left ul li .contacts{
+    color:RosyBrown;
+}
+
+.resume .resume_left .resume_skills ul li {
+    color: RosyBrown;
+    justify-content: space-between;
+}
+
+.resume .resume_right {
+    width: 520px;
+    background: white;
+    padding: 25px; 
+}
+
+.resume .resume_right .bold {
+    color: RosyBrown; 
+}
+
+.resume .resume_right  .resume_education ul li {
+    padding-left: 40px;
+    overflow: hidden;
+}
+
+.resume .resume_right  ul li {
+    position: relative;
+}
+
+footer .logo{
+height: 100%;
+width: 100%;
+text-align: center;  
+
+}
+
+footer .link {
+  text-align: center;  
+}
+
+
+
+
+
+
+
+    
